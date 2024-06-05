@@ -2,8 +2,6 @@
 ### Desenvolvedor Web e estudande de Sistemas de informação.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="html" height="50" width="50" src="https://www.svgrepo.com/show/452228/html-5.svg">
-  <img align="center" alt="css" height="42" width="42" src="https://www.svgrepo.com/show/349330/css3.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
