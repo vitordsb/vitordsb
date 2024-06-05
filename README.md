@@ -13,8 +13,19 @@
 </div>
 
   ##
-  
+
+### Contribuições
+
+<div align="left">
+  <a href="https://github.com/WilliamDosSantos">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitordsb&theme=dracula&show_icons=true"/>
+</div>
+
+  ##
+
 ### Meus contatos 
+
 
   <div> 
   <a href="https://www.instagram.com/vitoordsb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
