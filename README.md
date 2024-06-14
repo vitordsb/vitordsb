@@ -16,8 +16,8 @@
 
 <div align="left">
   <a href="https://github.com/WilliamDosSantos">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitordsb&theme=dracula&show_icons=true"/>
+  <img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitordsb&theme=dracula&show_icons=true"/>
 </div>
 
   ##
