@@ -1,4 +1,3 @@
-### Olá mundo! Eu sou o Vitor de Souza, sejam bem vindos!
 ### Desenvolvedor Web e estudande de Sistemas de informação.
 
 <div style="display: inline_block"><br>
