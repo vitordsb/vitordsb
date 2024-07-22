@@ -5,6 +5,7 @@ const VitorDeSouza = {
   nome: "VITOR DE SOUZA",
   Estudante: "SISTEMAS DE INFORMAÇÂO",
   Area: "DESENVOLVIMENTO WEB, UI/UX DESIGNER",
+  Status: "NAMORANDO UMA MORENA LINDA ❤️",
 };
 ```
 
