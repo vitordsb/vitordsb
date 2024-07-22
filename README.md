@@ -21,15 +21,6 @@ const VitorDeSouza = {
     <code><img height="32" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"/></code>
   </div>
  </div>
- 
- ```JavaScript
-const Habilidades = {
-  Sólidas: ["HTML", "CSS", "JavaScript", "React", "Angular", "Next"],
-  SeiMeVirar: ["Node", "PHP"],
-  Estudando: ["Java"]
-};
-```
-
 
 ### Meus contatos 
 
