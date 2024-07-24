@@ -8,6 +8,7 @@ const VitorDeSouza = {
   Status: "NAMORANDO UMA MORENA LINDA ❤️",
 };
 ```
+### Minhas Skills 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,6 +24,8 @@ const VitorDeSouza = {
   </div>
  </div>
 
+  ##
+
 ### Meus contatos 
 
 
@@ -37,10 +40,4 @@ const VitorDeSouza = {
 
 ### Contribuições
 
-  <a href="https://github.com/vitordsb">
   <img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitordsb&theme=dracula&show_icons=true"/>
-
-
-  ##
-
