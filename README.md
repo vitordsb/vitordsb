@@ -11,9 +11,6 @@ const VitorDeSouza = {
 ```
 ### Minhas Skills 
 
- ##
- 
-<img height="160em" width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
