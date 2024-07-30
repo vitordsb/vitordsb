@@ -2,16 +2,15 @@
 
 
 ```JavaScript
-export default function VitorDeSouza(Nome, Status, Estudando, Area, Skills) {
-  Nome = "Vitor de Souza Barreto",
-  Status = "Procurando Estágio",
-  Estudando = "Sistemas de Informação",
-  Area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"],
-  Skills = [
-    {Languages: "JavaScript", "TypeScript", "Python"},
-    {Frameworks: "React", "Nextjs", "Nodejs", "Angular", "Django"}
-  ]
-};
+export default function VitorDeSouza() {
+    const nome = "Vitor de Souza Barreto";
+    const status = "Procurando Estágio";
+    const estudando = "Sistemas de Informação";
+    const area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"];
+    const skills = [
+      {Languages: "JavaScript", "TypeScript", "Python"},
+      {Frameworks: "React", "Nextjs", "Nodejs", "Angular", "Django"}
+    ])}
 ```
 ### Minhas Skills 
 
