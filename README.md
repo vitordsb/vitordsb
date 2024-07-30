@@ -2,13 +2,15 @@
 
 
 ```JavaScript
-const VitorDeSouza = {
-  nome: "VITOR DE SOUZAB BARRETO",
-  Status: "PROCURANDO ESTÁGIO",
-  Estudante: "SISTEMAS DE INFORMAÇÂO",
-  Area: ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"],
-  Languages: ["JavaScript", "TypeScript", "PHP", "Python"],
-  Frameworks: ["React", "Nextjs", "Nodejs", "Angular", "Django", "Laravel"]
+export default function VitorDeSouza(Nome, Status, Estudando, Area, Skills) {
+  Nome = "Vitor de Souza Barreto",
+  Status = "Procurando Estágio",
+  Estudando = "Sistemas de Informação",
+  Area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"],
+  Skills = [
+    {Languages: "JavaScript", "TypeScript", "Python"},
+    {Frameworks: "React", "Nextjs", "Nodejs", "Angular", "Django"}
+  ]
 };
 ```
 ### Minhas Skills 
