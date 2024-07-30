@@ -3,10 +3,12 @@
 
 ```JavaScript
 const VitorDeSouza = {
-  nome: "VITOR DE SOUZA",
+  nome: "VITOR DE SOUZAB BARRETO",
+  Status: "PROCURANDO ESTÁGIO",
   Estudante: "SISTEMAS DE INFORMAÇÂO",
-  Area: "DESENVOLVIMENTO WEB, UI/UX DESIGNER",
-  Status: "NAMORANDO UMA MORENA LINDA ❤️",
+  Area: ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"],
+  Languages: ["JavaScript", "TypeScript", "PHP", "Python"],
+  Frameworks: ["React", "Nextjs", "Nodejs", "Angular", "Django", "Laravel"]
 };
 ```
 ### Minhas Skills 
