@@ -8,8 +8,8 @@ export default function VitorDeSouza() {
     const estudando = "Sistemas de Informação";
     const area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"];
     const skills = [
-      {Languages: "JavaScript", "TypeScript", "Python"},
-      {Frameworks: "React", "Nextjs", "Nodejs", "Angular", "Django"}
+      {Languages: "JavaScript", "TypeScript",}
+      {Frameworks: "React", "Nextjs", "Nodejs", "Angular"}
     ])}
 ```
 ### Minhas Skills 
