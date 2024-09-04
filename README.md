@@ -12,7 +12,7 @@ export default function VitorDeSouza() {
       {Frameworks: "React", "Nextjs", "Nodejs", "Angular"}
     ])}
 ```
-<div align="center">
+<div align="start">
   <a href="https://github.com/vitordsb">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=vitordsb&theme=dracula&show_icons=true"/>
 
