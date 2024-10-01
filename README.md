@@ -4,10 +4,10 @@
 ```JavaScript
 export default function VitorDeSouza() {
     const nome = "Vitor de Souza Barreto";
-    const status = "Procurando Estágio";
-    const estudando = "Sistemas de Informação";
-    const area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"];
-    const skills = [
+    let status = "Procurando Estágio";
+    let estudando = "Sistemas de Informação";
+    let area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"];
+    let skills = [
       {Languages: "JavaScript", "TypeScript",}
       {Frameworks: "React", "Nextjs", "Nodejs", "Angular"}
     ])}
