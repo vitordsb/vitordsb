@@ -9,7 +9,7 @@ export default function VitorDeSouza() {
     let area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"];
     let skills = [
       {Languages: "JavaScript", "TypeScript",}
-      {Frameworks: "React", "Nextjs", "Nodejs", "Angular"}
+      {Frameworks: "React", "Nextjs", "Nodejs", "Vuejs"}
     ])}
 ```
 
