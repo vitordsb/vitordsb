@@ -1,18 +1,5 @@
 ## 👋 Olá, eu sou o Vitor de Souza.
 
-
-```JavaScript
-export default function VitorDeSouza() {
-    const nome = "Vitor de Souza Barreto";
-    let status = "Procurando Estágio";
-    let estudando = "Sistemas de Informação";
-    let area = ["DESENVOLVIMENTO WEB", "UI/UX DESIGNER", "DESENVOLVIMENTO MOBILE"];
-    let skills = [
-      {Languages: "JavaScript", "TypeScript",}
-      {Frameworks: "React", "Nextjs", "Nodejs", "Vuejs"}
-    ])}
-```
-
 ### Minhas Skills 
 
 <div style="display: inline-block">
