@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Vitor de Souza.
 
-### Minhas Skills 
+### Minhas Habilidades
 
 <div style="display: inline-block">
       <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,7 @@
       </div>
  </div>
 
-### Melhores linguagens
+### Mais usados
 
 <div align="start">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
