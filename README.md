@@ -6,8 +6,6 @@ Cursando Sistemas de informação na Faculdade Rio Branco Cotia/SP 2º Semestre.
 ### Minhas Habilidades
 
 <div style="display: inline-block">
-      <img align="center" alt="Js" height="50" width="50" src="https://www.svgrepo.com/show/452228/html-5.svg">
-      <img align="center" alt="Js" height="50" width="50" src="https://www.svgrepo.com/show/452185/css-3.svg">
       <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" alt="php" height="50" width="50" src="https://www.svgrepo.com/show/354528/vue.svg">
