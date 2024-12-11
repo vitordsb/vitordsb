@@ -1,20 +1,99 @@
-## Sou o Vitor de Souza.
-Desenvolvedor Web full stack junor, e UI/UX Designer. Em busca de oportunidade no mercado de trabalho.
+# ✨IA:  Vitor de Souza
 
-Cursando Sistemas de informação na Faculdade Rio Branco Cotia/SP 2º Semestre.
+`Desenvolvedor Full Stack Junior`
 
-### Minhas Habilidades
+Olá, sou o Vitor, tenho 18 anos e sou natural da Bahia. Estou cursando Sistemas de informação no 3º Semestre. Entusiasta de tecnologia, sempre aberto a novas ideias e projetos. Tenho Competências com JavaScript, TypeScript, Vue, React, Node, Mysql
 
-<div style="display: inline-block">
-      <img align="center" alt="Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="php" height="50" width="50" src="https://www.svgrepo.com/show/354528/vue.svg">
-      <img align="center" alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="node" height="50" width="50" src="https://www.svgrepo.com/show/452075/node-js.svg">
-      <img align="center" alt="mysql" height="50" width="50" src="https://www.svgrepo.com/show/303251/mysql-logo.svg">
-      <img align="center" alt="linux" height="50" width="50" src="https://www.svgrepo.com/show/448236/linux.svg">
- </div>
+# 
+Linguagens e Tecnologias:
+
+<img
+    align="left"
+    width="50"
+    alt="JavaScript"
+    title="JavaScript"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/349419/javascript.svg"
+/>
+<img
+    align="left"
+    width="50"
+    alt="TypeScript"
+    title="TypeScript"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/349540/typescript.svg"
+/>
+<img
+    align="left"
+    width="50"
+    alt="Vue"
+    title="Vue"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/354528/vue.svg"
+/>
+<img
+    align="left"
+    width="50"
+    alt="React"
+    title="React"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+/>
+<img
+    align="left"
+    width="50"
+    alt="Node"
+    title="Node"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/452075/node-js.svg"
+/>
+<img
+    align="left"
+    width="60"
+    alt="Mysql"
+    title="Mysql"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+/>
+<img
+    align="left"
+    width="50"
+    alt="Linux"
+    title="Linux"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/448236/linux.svg"
+/>
+<img
+    align="left"
+    width="50"
+    alt="Figma"
+    title="Figma"
+    style="padding-right: 10px;"
+    src="https://www.svgrepo.com/show/452202/figma.svg"
+/>
+
+<br/>
+<br/>
 
 
-<div align="start">
-  <img height="200em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&langs_count=7&theme=dracula"/>
+### Estatisticas:
+
+<p>
+<img
+    align="left"
+    alt="Github Stats"
+    height="160"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=vitordsb&show_icons=true&theme=tokyonight&locale=pt-br"
+/>
+</p>
+<p>
+<img
+    align="left"
+    alt="Github languages"
+    height="160"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&theme=tokyonight&layout=compact&custom_title=Habilidades"
+/>
+</p>
+
