@@ -1,6 +1,6 @@
 # ✨IA:  Vitor de Souza
 
-`Desenvolvedor Full Stack Junior`
+`Desenvolvedor Full Stack` `UI/UX Designer` `Web Developer` `Mobile Developer`
 
 Olá, sou o Vitor, tenho 18 anos e sou natural da Bahia. Estou cursando Sistemas de informação no 3º Semestre. Entusiasta de tecnologia, sempre aberto a novas ideias e projetos. Tenho Competências com JavaScript, TypeScript, Vue, React, Node, Mysql
 
