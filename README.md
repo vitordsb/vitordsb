@@ -81,15 +81,6 @@ Linguagens e Tecnologias:
 <p>
 <img
     align="left"
-    alt="Github Stats"
-    height="160"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=vitordsb&show_icons=true&theme=tokyonight&locale=pt-br"
-/>
-</p>
-<p>
-<img
-    align="left"
     alt="Github languages"
     height="160"
     style="padding-right: 10px;"
@@ -97,3 +88,12 @@ Linguagens e Tecnologias:
 />
 </p>
 
+<p>
+<img
+    align="left"
+    alt="Github Stats"
+    height="160"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=vitordsb&show_icons=true&theme=tokyonight&locale=pt-br"
+/>
+</p>
