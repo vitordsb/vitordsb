@@ -2,8 +2,8 @@
 
 `Desenvolvedor Full Stack` `UI/UX Designer` `Web Developer` `Mobile Developer`
 
-<h4>Olá, sou o Vitor, desenvolvedor full stack e tenho 18 anos. Estou cursando Sistemas de informação no 3º Semestre. Entusiasta de tecnologia, sempre aberto a novas ideias e projetos. Tenho Competências com JavaScript, TypeScript, Vue, React, Node, Mysql.
-</h1>
+<h3>Olá, sou o Vitor, desenvolvedor full stack e tenho 18 anos. Estou cursando Sistemas de informação no 3º Semestre. Entusiasta de tecnologia, sempre aberto a novas ideias e projetos. Tenho Competências com JavaScript, TypeScript, Vue, React, Node, Mysql.
+</h3>
 
 # 
 Linguagens e Tecnologias:
