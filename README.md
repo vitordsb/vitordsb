@@ -85,7 +85,7 @@ Linguagens e Tecnologias:
     alt="Github languages"
     height="160"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&theme=tokyonight&layout=compact&custom_title=Minhas Habilidades"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&theme=tokyonight&layout=compact&custom_title="Minhas Habilidades"
 />
 </p>
 
