@@ -9,72 +9,72 @@ Linguagens e Tecnologias:
 
 <img
     align="left"
-    width="50"
+    width="70"
     alt="JavaScript"
     title="JavaScript"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/349419/javascript.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"
 />
 <img
     align="left"
-    width="50"
+    width="70"
     alt="TypeScript"
     title="TypeScript"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/349540/typescript.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"
 />
 <img
     align="left"
-    width="50"
+    width="70"
     alt="Vue"
     title="Vue"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/354528/vue.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/VueJS-Dark.svg"
 />
 <img
     align="left"
-    width="50"
+    width="70"
     alt="React"
     title="React"
     style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"
 />
 <img
     align="left"
-    width="50"
+    width="70"
     alt="Node"
     title="Node"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/452075/node-js.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg"
 />
 <img
     align="left"
-    width="60"
+    width="70"
     alt="Mysql"
     title="Mysql"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/303251/mysql-logo.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"
 />
 <img
     align="left"
-    width="50"
+    width="70"
     alt="Linux"
     title="Linux"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/448236/linux.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"
 />
 <img
     align="left"
-    width="50"
+    width="70"
     alt="Figma"
     title="Figma"
     style="padding-right: 10px;"
-    src="https://www.svgrepo.com/show/452202/figma.svg"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg"
 />
 
 <br/>
 <br/>
-
+<br/>
 
 ### Estatisticas:
 
