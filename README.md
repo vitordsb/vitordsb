@@ -10,7 +10,7 @@ Linguagens e Tecnologias:
 
 <img
     align="left"
-    width="70"
+    width="60"
     alt="JavaScript"
     title="JavaScript"
     style="padding-right: 10px;"
@@ -18,7 +18,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="TypeScript"
     title="TypeScript"
     style="padding-right: 10px;"
@@ -26,7 +26,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="Vue"
     title="Vue"
     style="padding-right: 10px;"
@@ -34,7 +34,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="React"
     title="React"
     style="padding-right: 10px;"
@@ -42,7 +42,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="Node"
     title="Node"
     style="padding-right: 10px;"
@@ -50,7 +50,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="Mysql"
     title="Mysql"
     style="padding-right: 10px;"
@@ -58,7 +58,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="Linux"
     title="Linux"
     style="padding-right: 10px;"
@@ -66,7 +66,7 @@ Linguagens e Tecnologias:
 />
 <img
     align="left"
-    width="70"
+    width="60"
     alt="Figma"
     title="Figma"
     style="padding-right: 10px;"
