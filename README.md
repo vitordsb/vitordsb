@@ -73,22 +73,6 @@
     style="padding-right: 10px;"
     src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg"
 />
-<img
-    align="left"
-    width="60"
-    alt="Linux"
-    title="Linux"
-    style="padding-right: 10px;"
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg"
-/>
-<img
-    align="left"
-    width="60"
-    alt="Figma"
-    title="Figma"
-    style="padding-right: 10px;"
-    src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg"
-/>
 
 <br/>
 <br/>
