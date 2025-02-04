@@ -1,6 +1,22 @@
  
-Linguagens e Tecnologias:
+## Linguagens e Tecnologias:
 
+<img
+    align="left"
+    width="60"
+    alt="html"
+    title="html"
+    style="padding-right: 10px;"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"
+/>
+<img
+    align="left"
+    width="60"
+    alt="css"
+    title="css"
+    style="padding-right: 10px;"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg"
+/>
 <img
     align="left"
     width="60"
@@ -32,6 +48,14 @@ Linguagens e Tecnologias:
     title="React"
     style="padding-right: 10px;"
     src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg"
+/>
+<img
+    align="left"
+    width="60"
+    alt="Next"
+    title="Next"
+    style="padding-right: 10px;"
+    src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg"
 />
 <img
     align="left"
