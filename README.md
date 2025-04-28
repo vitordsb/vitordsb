@@ -2,7 +2,9 @@
  * 👋 Eu sou Vitor, desenvolvedor Front-End e UI/UX Designer.
  * 💻 Cursando bacharelado em Sistemas de Informação - 3º Semestre.
  * 🌟 Tentando abrir minha própria Startup - DevSolutions
-   
+
+---
+
 ```javascript
 
 export default function Vitor() {
@@ -38,10 +40,7 @@ export default function Vitor() {
 
 ---
 
-<details>
-  <summary>📈 Estatísticas GitHub:</summary>
+## 📈 Estatísticas GitHub:
 
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vitordsb&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
-</details>
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vitordsb&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
