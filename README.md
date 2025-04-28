@@ -1,8 +1,6 @@
 ## 👋 Sobre mim
 
-Olá! Sou o Vitor, desenvolvedor Web e UI/UX Designer.  
-Atualmente curso Sistemas de Informação (3º semestre) e sou apaixonado por tecnologia.  
-Estou focado em crescer como profissional e estou trabalhando no desenvolvimento da minha própria startup. 🚀
+Desenvolvedor Web e UI/UX Designer.  
 
 ---
 
