@@ -1,9 +1,3 @@
-## 👋 Sobre mim
-
-Desenvolvedor Web e UI/UX Designer.  
-
----
-
 ## 🚀 Linguagens e Tecnologias:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
