@@ -22,10 +22,10 @@ Estou focado em crescer como profissional e estou trabalhando no desenvolvimento
 
 ## 📈 Estatísticas GitHub:
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&theme=tokyonight&layout=compact&custom_title=Habilidades" alt="Top Languages" />
-</p>
+<div style="display: flex">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&theme=tokyonight&layout=compact&custom_title=Habilidades" alt="Top Languages" />
 
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitordsb&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
-</p>
+  <img>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitordsb&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
+  </img>
+</div>
