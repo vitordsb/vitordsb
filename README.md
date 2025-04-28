@@ -1,3 +1,25 @@
+## Sobre mim 
+ * 👋 Eu sou Vitor, desenvolvedor Front-End e UI/UX Designer.
+ * 💻 Cursando bacharelado em Sistemas de Informação - 3º Semestre.
+ * 🌟 Tentando abrir minha própria Startup - DevSolutions
+   
+```javascript
+
+export default function Vitor() {
+  console.log(`
+╔════════════════════════════════════════╗
+║                                        ║
+║   🚀 Bem-vindo ao meu portfólio!       ║
+║   👋 Eu sou Vitor,                     ║
+║      desenvolvedor Front-End.          ║
+║   💡 Sempre aprendendo                 ║
+║                                        ║
+╚════════════════════════════════════════╝
+  `);
+}
+
+```
+
 ## 🚀 Linguagens e Tecnologias:
 
 <div style="display: flex; flex-wrap: wrap">
@@ -16,12 +38,10 @@
 
 ---
 
-## 📈 Estatísticas GitHub:
+<details>
+  <summary>📈 Estatísticas GitHub:</summary>
 
-<div style="display: flex">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&theme=tokyonight&layout=compact&custom_title=Habilidades" alt="Top Languages" />
-
-  <img>
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitordsb&show_icons=true&theme=tokyonight&locale=pt-br" alt="GitHub Stats" />
-  </img>
-</div>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vitordsb&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
