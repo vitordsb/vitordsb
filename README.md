@@ -5,23 +5,6 @@
 
 ---
 
-```javascript
-
-export default function Vitor() {
-  console.log(`
-╔════════════════════════════════════════╗
-║                                        ║
-║   🚀 Bem-vindo ao meu portfólio!       ║
-║   👋 Eu sou Vitor,                     ║
-║      desenvolvedor Front-End.          ║
-║   💡 Sempre aprendendo                 ║
-║                                        ║
-╚════════════════════════════════════════╝
-  `);
-}
-
-```
-
 ## 🚀 Linguagens e Tecnologias:
 
 <div style="display: flex; flex-wrap: wrap">
