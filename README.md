@@ -1,10 +1,3 @@
-## Sobre mim 
- * 👋 Eu sou Vitor, desenvolvedor Front-End e UI/UX Designer.
- * 💻 Cursando bacharelado em Sistemas de Informação - 3º Semestre.
- * 🌟 Tentando abrir minha própria Startup - DevSolutions
-
----
-
 ## 🚀 Linguagens e Tecnologias:
 
 <div style="display: flex; flex-wrap: wrap">
