@@ -9,9 +9,3 @@
   <img width="45" alt="Figma" title="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
   <img width="45" alt="NeoVim" title="NeoVim" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NeoVim-Dark.svg" />
 </div>
-
----
-
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=vitordsb&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordsb&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
