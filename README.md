@@ -21,7 +21,7 @@ Construindo interfaces de alta performance, acessíveis e orientadas à convers�
 
 ## Sobre
 
-Frontend Engineer com +4 anos construindo produtos digitais em startups brasileiras — marketplaces B2B, plataformas SaaS e sistemas de infoprodutos.
+Frontend Engineer com +5 anos construindo produtos digitais em startups brasileiras — marketplaces B2B, plataformas SaaS e sistemas de infoprodutos.
 
 Minha especialidade é a camada de interface: componentes escaláveis, performance mensurável e experiência de usuário que impacta métricas de negócio. Entendo o lado backend, o que me permite tomar decisões de frontend com contexto completo do sistema.
 
