@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript;Interfaces+que+convertem+%E2%80%94+c%C3%B3digo+que+respeita+o+usu%C3%A1rio" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript;+c%C3%B3digo+que+respeita+o+usu%C3%A1rio" alt="Typing SVG" />
 
 <br/>
 
