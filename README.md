@@ -54,17 +54,6 @@ Minha especialidade é a camada de interface: componentes escaláveis, performan
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitordsb&theme=default&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitordsb&theme=default&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 [vitordsb.com.br](https://vitordsb.com.br) · [linkedin.com/in/vitordsb](https://linkedin.com/in/vitordsb)
